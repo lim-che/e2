@@ -9,7 +9,7 @@ $player1 = $dice[rand(0, 5)];
 //dice digit for player2
 $player2 = $dice[rand(0, 5)];
 
-//decide winner
+//decide the winner
 $winner = "";
 if ($player1 > $player2){
     $winner = 'Player 1 Wins';
