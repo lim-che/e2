@@ -1,10 +1,12 @@
-Project 2
-By: Phillip Yang
+# Project 1
 
-Production URL: http://e2p2.hesphillip.xyz
+- By: Phillip Yang
+- URL: http://e2p2.hesphillip.xyz
 
-Outside resources
-none
+## Outside resources
 
-Notes for instructor
-none
+None
+
+## Notes for instructor
+
+n/a
