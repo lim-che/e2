@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Project2 --- Rock, Paper, Scissors</title>
+    <title>Project 3 --- Rock, Paper, Scissors</title>
     <meta charset="utf-8" />
     <link href="data:" , rel="icon" />
 </head>
